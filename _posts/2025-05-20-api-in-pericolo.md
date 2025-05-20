@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "Giornata Mondiale delle Api: Un Appello per Salvare i Piccoli Impollinatori, Garanti della Nostra Sicurezza Alimentare"
 categories: misc
 ---
-# **Giornata Mondiale delle Api: Un Appello per Salvare i Piccoli Impollinatori, Garanti della Nostra Sicurezza Alimentare**
-
 Oggi, 20 maggio, si celebra in tutto il mondo la *Giornata Mondiale delle Api*, un evento istituito dalle Nazioni Unite per sensibilizzare l'opinione pubblica sull'importanza cruciale di questi insetti nella nostra vita e nell'ecosistema globale. Un'iniziativa che cade proprio nel giorno scelto dal pioniere dell'apicoltura, Anton Janša, per commemorare la sua nascita.
 
 ## **Un Lavoro Silenzioso ma Essenziale**
