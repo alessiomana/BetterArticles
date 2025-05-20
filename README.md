@@ -1,9 +1,9 @@
-# BetterArticles
-
-Raccolta di articoli generati automaticamente.
-
-## Indice Articoli
-
-- [Delitto Garlasco](delitto_garlasco.md) - 20/05/2025
-- [Truffa Brawlstars](Truffa_BrawlStars.md) - 20/05/2025
-- [Api In Pericolo](Api_in_pericolo.md) - 20/05/2025
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
